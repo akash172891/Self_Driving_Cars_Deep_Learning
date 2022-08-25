@@ -23,10 +23,10 @@ print('Total Traning images : ', len(xTrain))
 print('Total Validation images : ',len(xVal))
 
 # Step 6 : Images augmentation
-    ## watch in Utils.py or code_analyse.ipynb
+    ##  Utils.py or code_analyse.ipynb
 
 # Step 7 : Pre-processing of Images
-    ## watch in utils.py
+    ##  utils.py
 
 # Step 8 : Creating model proposed by NVIDIA
 model = createModel()
